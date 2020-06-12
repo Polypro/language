@@ -1,0 +1,3 @@
+[submodule "translator-files/en-es-en-Dic"]
+	path = translator-files/en-es-en-Dic
+	url = https://github.com/mananoreboton/en-es-en-Dic.git

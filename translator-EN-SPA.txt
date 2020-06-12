@@ -12,7 +12,7 @@ Title: Diccionario Ingles-Español-Tagalog
 
 Author: Sofronio G. Calderon
 
-Release Date: March 4, 2007 [EBook #20738]
+Release Date: March 4, 2007 [EBook #20738] <--
 
 Language: Spanish, English and Tagalog
 
